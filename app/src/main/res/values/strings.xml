@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FilmKu</string>
+
+    <!-- Formats -->
+    <string name="format_imdb_rating">%s/10 IMDb</string>
+    <string name="sort">SortBy</string>
+    <string name="sort_year">Year</string>
+    <string name="sort_rate">Rate</string>
+</resources>
